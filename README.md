@@ -7,7 +7,6 @@ I'm Andrew Schwartz - a passionate developer, CTO, and lifelong learner. With an
 ## 🌐 Online Presence
 - [LinkedIn](https://www.linkedin.com/in/andrew-schwartz-04061147/)
 - [mk-dir.com](https://mk-dir.com)
-- [Electronic Portfolio](https://andrewschwartz.weebly.com/)
 
 ---
 
