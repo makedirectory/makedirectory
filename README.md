@@ -46,17 +46,7 @@ I'm Andrew Schwartz - a passionate developer, CTO, and lifelong learner. With an
 
 ---
 
-## 🎓 EDUCATION
-
-**Bachelor of Science**<br>
-_Business Management Concentration in Entrepreneurship_<br>
-**Wentworth Institute of Technology**<br>
-_Sep 2010 - Dec 2015_<br>
-_Boston, MA_
-
----
-
-### 📈 Algorithmic Trading | [🔗](https://github.com/makedirectory/alpaca-api-scaffolding)
+### 📈 Algorithmic Trading | [🔗](https://github.com/makedirectory/tradeflow)
 
 An avid enthusiast of the financial markets, I've dabbled in algorithmic trading, developing strategies and backtesting them. I enjoy the blend of quantitative analysis, programming, and financial understanding this unique domain offers.
 
